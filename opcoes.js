@@ -37,7 +37,6 @@ const remover = () => {
 
   console.log("Removido");
 };
-
 module.exports = {
   criar,
   atualizar,
